@@ -81,8 +81,8 @@ public class Main extends Application
         // Sets the title of the canvas
         stage.setTitle("Darkened World");
 
-
-
         stage.show();
+
+        System.out.println("Hello future");
     }
 }
