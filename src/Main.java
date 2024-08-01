@@ -83,6 +83,6 @@ public class Main extends Application
 
         stage.show();
 
-        System.out.println("Hello future");
+        System.out.println("Hello ULTIMATE future");
     }
 }
